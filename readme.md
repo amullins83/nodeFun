@@ -13,4 +13,4 @@ Where to download.
 
  You're reading this right? How do you not have it yet?
 
-*Copyright (c)2013 me.*
+*Copyright &copy;2013 me.*
